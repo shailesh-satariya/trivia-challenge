@@ -1,0 +1,102 @@
+[
+  {
+    "category": "Entertainment: Video Games",
+    "type": "boolean",
+    "difficulty": "hard",
+    "question": "In &quot;The Sims&quot; series, the most members in a household you can have is 8.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "boolean",
+    "difficulty": "hard",
+    "question": "In Undertale, having a &quot;Fun Value&quot; set to 56-57 will play the &quot;Wrong Number Song Call&quot;.",
+    "correct_answer": "False",
+    "incorrect_answers": [
+      "True"
+    ]
+  },
+  {
+    "category": "Entertainment: Music",
+    "type": "boolean",
+    "difficulty": "hard",
+    "question": "The song &quot;Mystery Train&quot; was released by artist &quot;Little Junior&#039;s Blue Flames&quot; in 1953.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "category": "Science: Computers",
+    "type": "boolean",
+    "difficulty": "hard",
+    "question": "The IBM PC used an Intel 8008 microprocessor clocked at 4.77 MHz and 8 kilobytes of memory.",
+    "correct_answer": "False",
+    "incorrect_answers": [
+      "True"
+    ]
+  },
+  {
+    "category": "Politics",
+    "type": "boolean",
+    "difficulty": "hard",
+    "question": "Nazi Germany surrendered on Harry Truman&#039;s birthday while he was president.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "category": "Entertainment: Music",
+    "type": "boolean",
+    "difficulty": "hard",
+    "question": "Pete Townshend&#039;s solo album, &quot;White City: A Novel&quot;, is set in the metropolitan area of Chicago.",
+    "correct_answer": "False",
+    "incorrect_answers": [
+      "True"
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "boolean",
+    "difficulty": "hard",
+    "question": "The video game &quot;Fuel&quot; has an open world that is 5,560 square miles?",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "boolean",
+    "difficulty": "hard",
+    "question": "In &quot;Minecraft&quot;, gold tools are faster than diamond tools.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "category": "History",
+    "type": "boolean",
+    "difficulty": "hard",
+    "question": "The man that shot Alexander Hamilton was named Aaron Burr.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "category": "Entertainment: Film",
+    "type": "boolean",
+    "difficulty": "hard",
+    "question": "YouTube personality Jenna Marbles served as an executive producer of the film Maximum Ride (2016).",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  }
+]
